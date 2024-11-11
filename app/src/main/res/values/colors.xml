@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="main">#FF9800</color>
+    <color name="main_variant">#F57C00</color>
+    <color name="on_naranja">#FFFFFF</color>
+    <color name="on_white">#FF9800</color>
+    <color name="grey">#F5F5F5</color>
+    <color name="green_light">#C6F7C1</color>
+    <color name="holo_green_light">#5ECE33</color>
+    <color name="red_light">#F7C9C1</color>
+    <color name="holo_red_light">#C54E38</color>
+</resources>
